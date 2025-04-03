@@ -13,4 +13,4 @@ document.addEventListener('click', function(e){
     if(!hamburg.contains(e.target) && !navbarNav.contains(e.target)){
         navbarNav.classList.remove('active')
     }
-});
+}); 
